@@ -1,4 +1,4 @@
-# De la dignité des prisonniers: un plaidoyer anti-humaniste
+# De la dignité des prisonniers: un plaidoyer anti-humaniste (CC BY Lukas à Porta 2014)
 
 La prison genevoise de Champ-Dollon, surpeuplée, déborde de violence. Submergée, l’administration pénitentiaire genevoise ne parvient plus à garantir des conditions de détention dignes pour les détenus, comme en témoigne une récente décision du Tribunal fédéral (TF) qualifiant de dégradant le traitement infligé à deux d'entre eux. En réaction à ce jugement, les commentaires se sont mis à pleuvoir sur la Toile : « Champ-Dollon n'est pas un camp de vacances ! » ; « A l'étranger, c'est bien pire ! » ; « Les criminels, des victimes ? On croit rêver ! ». Pour une fois, prenons au sérieux ces remarques : pourquoi donc devrait-on respecter la dignité des prisonniers ?
 

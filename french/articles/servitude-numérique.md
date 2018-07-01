@@ -1,4 +1,4 @@
-# De la servitude numérique
+# De la servitude numérique (CC BY Lukas à Porta 2017)
 
 Le lundi 16 octobre 2017, la Cour Suprême des États-Unis a accepté de se prononcer sur l'affaire dite de "Microsoft Irlande", qui oppose le géant de Redmond aux États-Unis. Washington souhaite obtenir un accès à des courriels stockés dans un centre de données administré par Microsoft et qui se trouve, comme le nom de l'affaire l'indique, en Irlande. Si la Cour Suprême donne raison aux États-Unis, ce cas aura des répercussions profondes sur les entreprises européennes qui dépendent des trois plus grands services d'informatique à la demande au monde, à savoir Amazon Web Services, Microsoft Azure et Google Cloud Platform. Contraintes légales obligent, certaines compagnies devront entamer une coûteuse émigration, qui pourrait s'apparenter à un véritable exode numérique, sans terre d'accueil évidente, tant ces services sont uniques. Que pourrait-on faire pour éviter cette conséquence malheureuse? Pas grand-chose, car dans cette affaire, tant les États européens que leurs citoyens sont relégués au rang d'observateurs impuissants, tout juste autorisés à transmettre leur amicus curiae, ou lettre d'ami de la cour, au tribunal. Quand Washington légifère, le monde obtempère.
 
@@ -14,4 +14,3 @@ Les outils, objets et services utilisés pour construire et maintenir notre univ
 
 Aujourd'hui, à l'exception de l'informatique dite de bureau, dont les décideurs politiques ne se sont pour ainsi dire jamais défaits - quand seulement ils y ont été confrontés - l'informatique libre est omniprésente, que ce soit dans le domaine mobile, de l'intelligence artificielle ou encore de l'informatique comme un service. Autrement dit, cette ressource intarissable d'outils est à la disposition des Etats et des collectivités publiques qui souhaitent construire les services en ligne de demain. Mais cela ne se fera pas sans une réflexion globale sur la fabrique des sociétés numériques, réflexion durant laquelle il ne faudra jamais perdre de vue la proposition suivante: l'informatique est politique. 
 
-Lukas à Porta

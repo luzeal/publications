@@ -1,4 +1,4 @@
-# "*Tais-toi*" ou les limites de la liberté d'expression
+# "*Tais-toi*" ou les limites de la liberté d'expression (CC BY Lukas à Porta 2014)
 
 Çà et là, on trouve toujours des individus pour défendre l'idée selon laquelle la liberté d'expression est absolue. Or, d'un point de vue pratique, et dans le cas de l'expression orale, il semble pourtant évident qu'elle ne peut pas l'être. Quand l'acteur, sur scène, prend la parole, son audience est réduite au silence, ou à l'usage d'une panoplie appauvrie d'expressions non-verbales, des applaudissements aux rires. Revendiquer la liberté d'expression totale puis la pratiquer sans entraves implique donc la mise en sourdine d'autrui, consensuelle ou non. Et si tous les coqs chantaient en même temps, le brouhaha incompréhensible qui en résulterait serait la négation de l'expression de tous, et non pas sa réalisation. À moins de vivre seul sur une île, l'expression orale ne peut être sans limites car elle est par définition exclusive. 
 

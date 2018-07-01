@@ -1,4 +1,4 @@
-# L’arme d’ordonnance, ou la quête d’un non-sens
+# L’arme d’ordonnance, ou la quête d’un non-sens (CC BY Lukas à Porta 2014)
 
 En déposant son arme à l’arsenal, le citoyen suisse astreint au service militaire exécute un acte
 dont il ne semble pas réaliser la portée : il mutile son identité, s’aliénant une partie de son âme

@@ -1,4 +1,4 @@
-# Que s’est-il vraiment passé le 12 septembre 2001 ?
+# Que s’est-il vraiment passé le 12 septembre 2001 ? (CC BY Lukas à Porta)
 
 *« C’est un complot interne! »* Le mot, tel une bombe, est largué. Le 11-septembre, événement extrêmement filmé et médiatisé, fait encore l’objet de vives controverses, relayées notamment par un grand nombre de sites web. Mieux, des théories dissidentes se sont formées, contestant la version communément admise des attentats. Début 2008, la polémique a une nouvelle fois atteint les rives du Léman, occupant quelques semaines durant la presse romande. Enquête sur les pistes des théories alternatives.
 
