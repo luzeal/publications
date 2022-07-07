@@ -23,7 +23,7 @@ backgroundImage: url(../../Projects/publications/images/foot4.jpg)
 
 1. *Virtualization(s) in a nutshell*
 2. *Use cases for machine-level virtualization*
-3. *The future of virtualization*
+3. *The future of virtualization.*
 
 ---
 
@@ -63,14 +63,14 @@ backgroundImage: url(../../Projects/publications/images/foot4.jpg)
 
 ---
 
-## Timeline from the 2000s: open-source machine-level virtualization
+## Timeline: open-source machine-level virtualization
 
 * 2003: Xen
 * 2005?: QEMU
 * 2005: First generation of hardware-assisted virtualization (x86)
 * 2007: KVM
 * ~2009: Second generation of hardware-assisted virtualization (x86, IOMMU-based)
-* 2015: Commodification of hardware-assisted virtualization (x86)
+* 2015: Commodification of hardware-assisted virtualization (x86).
 
 ---
 
@@ -80,13 +80,13 @@ backgroundImage: url(../../Projects/publications/images/foot4.jpg)
 <!-- _color: white  -->
 <!-- _paginate: -->
 
-**Use cases for machine-level virtualization**
+**Use case for machine-level virtualization**
 
 ![bg 100%](../../Project/../Projects/publications/images/recursive.jpg)
 
 ---
 
-## Use cases #1: 
+## Use case #1: 
 
 * **Running multiple operating systems concurrently**
   * Plug in two screens, two sets of keyboards, and two mice to the same PC and spawn two machines to do graphic-intensive tasks such as gaming or 3D modeling
@@ -106,17 +106,17 @@ backgroundImage: url(../../Projects/publications/images/foot4.jpg)
 
 <style scoped> { font-size: 170%; }</style>
 
-## Use cases #2
+## Use case #2
 
 * **Painlessly move to new hardware**
   * When virtualized, your operating system is just a file on your physical disk 
-  * You can move and restore your entire system on any another virtualization-friendly computer.
+  * You can move and restore your entire system on any other virtualization-friendly computer.
 
 ![bg width:700px right:60%](../../Project/../Projects/publications/images/virtualization-in-a-nutshell.png)
 
 ---
 
-## Use cases #3
+## Use case #3
 
 * **Make your current hardware last longer**
   * Most recent versions of modern operating systems require recent hardware to function, and may not work on otherwise perfectly functioning hardware
@@ -124,16 +124,16 @@ backgroundImage: url(../../Projects/publications/images/foot4.jpg)
 
 ---
 
-## Use cases #4
+## Use case #4
 
 * **Define everything in code**
   * A virtual machine is more flexible than a silicon-based computer, as it is made out of code
-  * Just as with other software, your imagination becomes the only limit, not the expensive hardware you may or may not possess. 
+  * Just as with other software, your imagination is the only limit, not the expensive hardware you may or may not possess. 
 
 
 ---
 
-*Do you need a new graphics card for your virtual machine? Here is one for you.*
+*Need a new graphics card for your virtual machine? Here is one for you*
 
 ```
 <devices>
@@ -162,11 +162,11 @@ backgroundImage: url(../../Projects/publications/images/foot4.jpg)
 
 ---
 
-## Towards hybridization: the rise of containers-like virtual machines
+## Towards hybridization: the rise of container-like virtual machines
 
 * New technologies such as Kata Containers or Firecracker are blurring the distinction between virtual machines and containers
-  * Fly.io, which allow for the easy distribution of applications around the world, is using Firecracker in production.
-  * [AWS Lambda](https://aws.amazon.com/lambda/) functions are also leveraging Firecracker
+  * Fly.io, which allows for the easy distribution of applications around the world, is using Firecracker in production.
+  * [AWS Lambda](https://aws.amazon.com/lambda/) functions are also leveraging Firecracker.
 
 *After all, it might be possible to have the best of both worlds*...
 
@@ -174,7 +174,7 @@ backgroundImage: url(../../Projects/publications/images/foot4.jpg)
 
 ## That's all folks: thank you for your attention!
 
-Let us know if you have any questions
+Let me know if you have any questions
 
 * Lukas Greve
 * :envelope: please@refre.ch
