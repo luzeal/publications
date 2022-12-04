@@ -4,14 +4,14 @@ theme: gaia
 _class: lead
 backgroundColor: #fff
 paginate: true
-backgroundImage: url(../../Projects/publications/images/foot4.jpg)
+backgroundImage: url(/publications/presentations/images/foot4.jpg)
 ---
 
 <!-- _paginate: -->
 
 # Machine-level virtualization in 2022
 
-**![width:700px](../../Projects/publications/images/fractal-veggie.jpg) <!-- Setting width to 700px -->**
+**![width:700px](/publications/presentations/images/fractal-veggie.jpg) <!-- Setting width to 700px -->**
 
 ## *Is there still a use for it?*
 
@@ -35,14 +35,14 @@ backgroundImage: url(../../Projects/publications/images/foot4.jpg)
 
 **Virtualization(s) in a nutshell**
 
-![bg 100%](../../Project/../Projects/publications/images/recursive.jpg)
+![bg 100%](/publications/presentations/images/recursive.jpg)
 
 ---
 
 ## Types of virtualization
 
 * **Machine-level virtualization** allows the creation of virtual machines, which are software-based computers made of virtual hardware and software
-  * Examples: QEMU/KVM; Xen; Hyper-V; VMware ESXi; etc 
+  * Examples: QEMU/KVM; Xen; Hyper-V; VMware ESXi; etc
 * **Operating-system-level virtualization** allows the creation of containers, which are self-contained and isolated environments that are leveraging their host operating system's capabilities to function
   * Examples: LXC and Docker on Linux; FreeBSD's Jails; Solaris Containers; etc.
 
@@ -82,11 +82,11 @@ backgroundImage: url(../../Projects/publications/images/foot4.jpg)
 
 **Use case for machine-level virtualization**
 
-![bg 100%](../../Project/../Projects/publications/images/recursive.jpg)
+![bg 100%](/publications/presentations/images/recursive.jpg)
 
 ---
 
-## Use case #1: 
+## Use case #1:
 
 * **Running multiple operating systems concurrently**
   * Plug in two screens, two sets of keyboards, and two mice to the same PC and spawn two machines to do graphic-intensive tasks such as gaming or 3D modeling
@@ -94,7 +94,7 @@ backgroundImage: url(../../Projects/publications/images/foot4.jpg)
 
 ---
 
-![bg 100%](../../Project/../Projects/publications/images/nested-virtualization-2.png)
+![bg 100%](/publications/presentations/images/nested-virtualization-2.png)
 
 <style scoped> { font-size: 650%; }</style>
 
@@ -109,10 +109,10 @@ backgroundImage: url(../../Projects/publications/images/foot4.jpg)
 ## Use case #2
 
 * **Painlessly move to new hardware**
-  * When virtualized, your operating system is just a file on your physical disk 
+  * When virtualized, your operating system is just a file on your physical disk
   * You can move and restore your entire system on any other virtualization-friendly computer.
 
-![bg width:700px right:60%](../../Project/../Projects/publications/images/virtualization-in-a-nutshell.png)
+![bg width:700px right:60%](/publications/presentations/images/virtualization-in-a-nutshell.png)
 
 ---
 
@@ -128,7 +128,7 @@ backgroundImage: url(../../Projects/publications/images/foot4.jpg)
 
 * **Define everything in code**
   * A virtual machine is more flexible than a silicon-based computer, as it is made out of code
-  * Just as with other software, your imagination is the only limit, not the expensive hardware you may or may not possess. 
+  * Just as with other software, your imagination is the only limit, not the expensive hardware you may or may not possess.
 
 
 ---
@@ -158,7 +158,7 @@ backgroundImage: url(../../Projects/publications/images/foot4.jpg)
 
 **The future of virtualization**
 
-![bg 100%](../../Project/../Projects/publications/images/recursive.jpg)
+![bg 100%](/publications/presentations/images/recursive.jpg)
 
 ---
 

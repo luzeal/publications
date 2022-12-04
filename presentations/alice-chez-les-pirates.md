@@ -1,22 +1,24 @@
-#<p class="fragment highlight-blue">Alice chez les pirates</p>
+#<p class="fragment highlight-blue">Celia chez les pirates</p>
 
 ###<p class="fragment highlight-red">Imprécis de survie à l'ère du numérique</p>
 
 ---
 
 ## L'information
-- <p class="fragment fade-up">L’information est une <u>donnée élémentaire</u>, une <u>connaissance</u> à propos de quelque chose qu’il est possible de communiquer à l’aide de signes comme des lettres ou des chiffres.</p>
+- <p class="fragment fade-up">L’information est une <u>connaissance</u> à propos de quelque chose comme un objet qu’il est possible de communiquer à l’aide de signes comme des lettres ou des chiffres.</p>
 - <p class="fragment fade-down">C'est à <u>l'information digitalisée</u> que l'on va s'intéresser, soit l'information que l'on peut encoder dans un ordinateur.</p>
 
 ---
 
 ## Infosec : Késako?
-- <p class="fragment fade-up">En informatique, la sécurité de l’information, abrégée « <u>infosec</u> », est la tentative de préserver certaines propriétés d’une information durant son cycle de vie, comme sa confidentialité ou son intégrité, ceci via des outils de chiffrement.</p>
-- <p class="fragment fade-down"> Le mot a retenir, c'est ***tentative*** ou ***processus*** </p>
+- <p class="fragment fade-up">En informatique, la sécurité de l’information, abrégée «<u>infosec</u> en anglais pour Information Security», c'est la tentative de préserver certaines propriétés d’une information durant son cycle de vie, comme sa confidentialité ou son intégrité, ceci via différentes méthodes comme:
+- Le fait de ne tenter d'éviter de générer de l'information
+</p>
+- <p class="fragment fade-down"> Le mot a retenir, c'est ***tentative***, ou un chemin, un objectif </p>
 ---
 
 ## Opsec
-- 	<p class="fragment fade-up">Alors que la sécurité de l’information penche du côté théorique et technique, la sécurité opérationnelle, dit « <u>opsec</u> » est la capacité à appliquer tous les jours les meilleures pratiques. </p>
+- 	<p class="fragment fade-up">Alors que la sécurité de l’information penche du côté théorique et technique, la sécurité opérationnelle, dit « <u>opsec</u> » est la capacité à appliquer quotidiennement les meilleures pratiques. </p>
 - <p class="fragment fade-down">Fabriquer ou disposer d’une serrure pour verrouiller l’accès à sa maison, c’est de l’infosec ; ne pas oublier de la fermer, c’est de l’opsec.</p>
 
 ---
@@ -31,7 +33,7 @@
 ---
 
 ## Sécurité ou information: il faut faire un choix #1
- 
+
 - <p class="fragment highlight-current-blue">L’information qui n’existe pas est la seule qui soit parfaitement sûre</p>
 ```javascript
 Information OR security
@@ -43,7 +45,7 @@ Information OR security
 ## Sécurité ou information: il faut faire un choix #1
 
 - <p class="fragment highlight-current-blue">Quand on doit stocker l’information, il faut la chiffrer, c’est à dire la rendre illisible sans le bon code pour la "déverrouiller"</p>
-- <p class="fragment highlight-current-green">Quand l’information est partagée, il faut utiliser des moyens de chiffrements de bouts à bouts, de façon à autoriser uniquement le récipiendaire à lire l’information en question</p> 
+- <p class="fragment highlight-current-green">Quand l’information est partagée, il faut utiliser des moyens de chiffrements de bouts à bouts, de façon à autoriser uniquement le récipiendaire à lire l’information en question</p>
 
 ---
 
