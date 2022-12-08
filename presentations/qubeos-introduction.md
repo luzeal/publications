@@ -9,9 +9,11 @@ backgroundImage: url(./images/foot4.jpg)
 
 <!-- _paginate: -->
 
-<style scoped> h2{ font-size: 400%; font-weight: }</style>
+<style scoped> h2{ font-size: 700%; font-weight: }</style>
+<style scoped> h3{ font-size: 300%; font-weight: }</style>
 
-## Qube OS : système orienté sécurité
+## Qube OS
+### Un OS orientée sécurité
 
 <!-- _backgroundImage:  -->
 <!-- _color: white  -->
@@ -65,12 +67,6 @@ La première version de ce système d'exploitation créé par Joanna Rutkowska e
 
 ---
 
-## That's all folks: thank you for your attention!
+<style scoped> h2{ font-size: 500%; font-weight: }</style>
 
-Let me know if you have any questions
-
-* Lukas Greve
-* :envelope: please@refre.ch
-
-
-*Made with :heart: and free software. [Hack](https://github.com/luzeal/publications/blob/master/virtualization.md) this presentation now!*
+## Demo time!
