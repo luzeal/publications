@@ -83,3 +83,8 @@ QubeOS
 <style scoped> h2{ font-size: 500%; font-weight: }</style>
 
 ## Demo time!
+
+---
+
+Acknowledgements:
+* Diagram courtesy of the Qubes OS Project website (© 2022 The Qubes OS Project and others)
