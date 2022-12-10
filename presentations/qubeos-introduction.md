@@ -12,7 +12,7 @@ backgroundImage: url(./images/foot4.jpg)
 <style scoped> h2{ font-size: 700%; font-weight: }</style>
 <style scoped> h3{ font-size: 300%; font-weight: }</style>
 
-## Qube OS
+## Qubes OS
 ### Un OS orientée sécurité
 
 <!-- _backgroundImage:  -->
@@ -35,9 +35,9 @@ backgroundImage: url(./images/foot4.jpg)
 
 ## Qubes OS?
 
-Qube OS est un système d'exploitation ouvert et libre qui scelle l'information générée par chaque application dans des silos étanches.
+Qubes OS est un système d'exploitation ouvert et libre qui scelle l'information générée par chaque application dans des silos étanches.
 
-* Ces silos étanches sont appelés **domaines** ou Qubes
+* Ces silos sont appelés **domaines** ou Qubes
 * Ces domaines sont associés à **des niveaux de confiance**
 
 Première version sortie en 2012. Créé par Joanna Rutkowska et Rafal Wojtczuk, du Invisible Things Lab, en Pologne.
@@ -59,7 +59,7 @@ Plus d'information: **https://www.qubes-os.org/**
 
 <style scoped>table { font-size: 90%; }</style>
 
-|                          | Windows NT et macOS | Windows NT (Hyper-V) |       QubeOS (Xen) |
+|                          | Windows NT et macOS | Windows NT (Hyper-V) |      Qube OS (Xen) |
 | ------------------------ | ------------------: | -------------------: | -----------------: |
 | Sécurité par l'obscurité |  :white_check_mark: |   :white_check_mark: |                :x: |
 | Sécurité par l'ouverture |                 :x: |                  :x: | :white_check_mark: |
@@ -72,7 +72,7 @@ Plus d'information: **https://www.qubes-os.org/**
 
 Sécurité par l'ouverture +
 Sécurité par l'isolation  =
-QubeOS
+Qube OS
 
 ---
 
