@@ -5,9 +5,13 @@ _class: lead
 backgroundColor: #fff
 paginate: true
 backgroundImage: url(./images/foot4.jpg)
+footer: 'Cyber Security Awareness Training, 2023, CC BY SA, Lukas Greve'
 ---
 
-<!-- _paginate: -->
+<!-- _paginate:  -->
+<!-- _backgroundImage:  -->
+<!-- _color: white  -->
+<!-- _footer: . -->
 
 <style scoped> h2{ font-size: 400%; font-weight: }</style>
 <style scoped> h3{ font-size: 250%; font-weight: }</style>
@@ -16,15 +20,12 @@ backgroundImage: url(./images/foot4.jpg)
 ### Awareness training 
 ### 2023
 
-<!-- _backgroundImage:  -->
-<!-- _color: white  -->
-<!-- _paginate: -->
-
 ![bg 100%](./images/recursive.jpg)
 
 ---
 
 <style scoped> { font-size: 350%; }</style>
+
 
 ### *Plan*
 
@@ -35,9 +36,13 @@ backgroundImage: url(./images/foot4.jpg)
 
 ---
 
-## 1. Introduction
+# 1. Introduction
 
-Questions that will drive this presentation:
+---
+
+<!-- _header: 1. Introduction -->
+
+## Questions driving this presentation
 
 - *What is information security?*
 - *What should I be aware of when it comes to cyber-security threats?* 
@@ -51,9 +56,17 @@ Just like articles in Wikipedia, this presentation is free and open: you are fre
 
 ---
 
-## 2. Infosec crash course: terminology
-- **Information security**: how to maintain the Confidentiality of some piece of information, its Integrity and its Availability (also known as the CIA Triad). Abreviated as *infosec*
-- **Holistic security**: a [concept](https://holistic-security.tacticaltech.org/chapters/prepare/chapter-1-1-what-is-holistic-security) introduced by Tactical Tech NGO, to blend physical, operational and information security together
+# 2. Infosec crash course
+
+---
+
+<!-- _header: 2. Infosec crash course -->
+
+## Terminology
+- **Information security**: the study of how to maintain the confidentiality, the integrity and the availability of digital information 
+  - Information security is often abreviated as *infosec*
+- [**Holistic security**](https://holistic-security.tacticaltech.org/): blend physical, psycho-social and information security together. 
+  - Concept introduced by the German-based NGO [Tactical Tech](https://tacticaltech.org/) 
 - **Encryption**: a process to make a discrete piece of information undecipherable without a specific method
 
 <!--
@@ -68,9 +81,11 @@ In this training, we will focus on information security threats.
 
 ---
 
-## 2. Infosec crash course: guidelines
+<!-- _header: 2. Infosec crash course -->
 
-- Inherent and unresolvable tension between information and security 
+## Guidelines
+
+- Information OR security 
   - Information security is a process not an end state 
   - There is always a non-zero risk
 - Information that doesn't exist as bits of data does not need to be secured
@@ -78,9 +93,11 @@ In this training, we will focus on information security threats.
 
 ---
 
-## 3. The threat landscape: Cyber powers ranked
+<!-- _header: 3. The threat landscape -->
 
-<style scoped>table { font-size: 50%; }</style>
+## Cyber Powers: a ranking
+
+<style scoped>table { font-size: 55%; width: 70%}</style>
 
 | Rank |        2020 |        2022 |
 | ---- | ----------: | ----------: |
@@ -97,7 +114,6 @@ In this training, we will focus on information security threats.
 | 11   |      Israel |     Germany |
 | 12   |       Spain | **Ukraine** |
 
-Source: *National Cyber Power Index 2020 & National Cyber Power Index 2022 by the Belfer Center from Hardware Kennedy School*
 
 <!--
 Ukraine from number 25 in 2020 to number 12 in 2022
@@ -105,7 +121,9 @@ Ukraine from number 25 in 2020 to number 12 in 2022
 
 ---
 
-## 3. The threat landscape: focus on Russia's APTs
+<!-- _header: 3. The threat landscape -->
+
+### Russia's Advanced Persistent Threats (APTs) actors
 
 | Name |        Affilation | Known for |
 | ---- | ----------: | ----------: |
@@ -118,24 +136,36 @@ APTs operating in the West are lesser known, and less studied. The Equation Grou
 
 Fancy Bear + Cozy Bear = Grizzly Steppe
 
-Other examples: black hackers
+Other examples: black hat hackers
 -->
 
 ---
 
-https://en.wikipedia.org/wiki/ANT_catalog#/media/File:NSA_COTTONMOUTH-I.jpg
+<!-- _header: 3. The threat landscape -->
 
+## Part of NSA's toolkit in 2009
 
-https://shop.hak5.org/products/omg-cable
+![width:700px](./images/NSA_COTTONMOUTH-I-cropped.png)
+
+- Now [available online](https://shop.hak5.org/products/omg-cable) for less than 200$ (in 2023)
+
 
 ---
 
-## 3. The threat landscape: kinds of threats
+<!-- _header: 3. The threat landscape -->
+
+## Threats categorized
+
+---
+
+<!-- _header: 3. The threat landscape -->
+
+## Attack vectors
 
 
-| **Threats**    | Advanced                                                                                                                                                                                                                                                                                                                                                                 | Simple                                                                                            |
+| **Threats**    |Advanced                                                                                                                                                                                                                                                                                                                                                                 | Simple                                                                                            |
 | -------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ | ------------------------------------------------------------------------------------------------- |
-| *Targeted*     | E.g. Zero-click remote exploits (i.e [Pegasus spyware](https://en.wikipedia.org/wiki/Pegasus_%28spyware%29)); coordinated [smear campaign](https://en.wikipedia.org/wiki/Smear_campaign#:~:text=A%20smear%20campaign%2C%20also%20referred,applied%20to%20individuals%20or%20groups.) fueled by a [Troll farm](https://en.wikipedia.org/wiki/Troll_farm) | E.g. [Spear phishing](https://en.wikipedia.org/wiki/Phishing)                                     |
+| *Targeted*     | E.g. Zero-click remote exploits (i.e [Pegasus spyware](https://en.wikipedia.org/wiki/Pegasus_%28spyware%29)); coordinated [smear campaigns](https://en.wikipedia.org/wiki/Smear_campaign#:~:text=A%20smear%20campaign%2C%20also%20referred,applied%20to%20individuals%20or%20groups.) fueled by a [Troll farm](https://en.wikipedia.org/wiki/Troll_farm) | E.g. [Spear phishing](https://en.wikipedia.org/wiki/Phishing)                                     |
 | *Non-targeted* | E.g. [Ransomware](https://en.wikipedia.org/wiki/Ransomware) attacks                                                                                                                                                                                                                                                                                                      | E.g. Generic phishing email or [Advance-fee](https://en.wikipedia.org/wiki/Advance-fee_scam) scam |
 
 
@@ -150,38 +180,55 @@ See the ANT Catalog https://en.wikipedia.org/wiki/ANT_catalog
 
 ---
 
-https://commons.wikimedia.org/wiki/File:Petya.Random.png
+<!-- _header: 3. The threat landscape -->
+
+## Petya ransomware message
+
+![width:800px](./images/Petya-Random.png)
 
 ---
 
-https://en.wikipedia.org/wiki/Pegasus_(spyware)
+<!-- _header: 4. Learn how to tackle online threats -->
 
----
+## Phishing email: sanity checks
 
-## Learn how to tackle threats
-
----
+<style scoped>table { font-size: 70%; width: 90%}</style>
 
 
-| **Checks** | **If so** | **What do make of it** |
+| Checks |  | Action |
 | --- | --- | --- |
-| *Does it ask you to act quickly to execute a sensitive operation?* | :white_check_mark: | **Contact the person directly to check** |
-| *Is it poorly written?* | :white_check_mark:  | **Common mistakes might be indicative of a scam**  |
-| *Has it been sent using the domain of the company associated to the user?* | :white_check_mark: |  **If someone is impersonate, look for the address**  |
-| *If it asks you to login or rester your password, can you be sure that you initiated the request?* |  :white_check_mark:   |  **If not, it might be indicative of a spam. Report it** |
+| *Does it ask you to act **quickly** to execute a **sensitive** operation?* | :white_check_mark: | **Contact the person directly to verify, using another mean of communication** |
+| *Is it poorly written?* | :white_check_mark: | **Common mistakes might be indicative of a scam. Confirm with the sender and report it.**  |
+| *Has it been sent using the domain of the company associated to the sender?* | :x: |  **If not, it most likely a scam. Report it**  |
+| *If the message asks you to login or reset your password, can you be sure that you initiated the request?* |  :x:   |  **If not, it is most likely a phishing attempt. Report it** |
 
 ---
+
+<!-- _header: 4. Learn how to tackle online threats -->
+
+## Phishing email example
+
+![Trusted Bank phishing email](./images/Trusted-Bank-phishing-email.png)
+
+---
+
+<!-- _header: 4. Learn how to tackle online threats -->
+<style scoped> { font-size: 160%}</style>
 
 ### How to surf online safely
 
-Strictly separate your professional domain from your personal one
-
-- Don't log with personal information. If you do need to so, use the private mode and/or
-- Use an ad blocker if allowed by your company policy
-- Don't ask your browser to remember your password. Instead, use your company-provided password manager
-- Only navigate to known websites
+- Separate your professional life from your personal one
+- Don't log to personnal account online using your company laptop. 
+  - If you do need to so, use the private mode
+- Use an ad blocker (e.g. *uBlock Origin*) if allowed by your company policy
+  - Targeted ads may be used for nefarious purposes  
+- If you have a company-provided password manager, don't let allow your browser to store your passwords
+- Use second factor authentication wherever available
+- Only browse on known and previously vetted websites
 
 ---
+
+<!-- _header: 4. Learn how to tackle online threats -->
 
 ### How share information online
 
@@ -191,10 +238,15 @@ Strictly separate your professional domain from your personal one
 
 ---
 
+<!-- _header: 4. Learn how to tackle online threats -->
+
 ### How to encrypt sensitive data, and use full disk encryption
 
-
 ---
+
+<!-- _header: 4. Learn how to tackle online threats -->
+
+### Your computer
 
 Don't delay updates. Especially for your Internet Browser.
 
@@ -202,117 +254,24 @@ Use only one Internet Browser
 
 ---
 
-https://en.wikipedia.org/wiki/Fancy_Bear#/media/File:APT28_APT29_Techniques_-_Malware.png
+## Sources
 
-
----
-
-<style scoped> { font-size: 500%; }</style>
-
-Sécurité par l'ouverture +
-Sécurité par l'isolation  =
-Qube OS
-
-Download software from trusted vendors
-
+- https://en.wikipedia.org/wiki/Fancy_Bear#/media/File:APT28_APT29_Techniques_-_Malware.png
+- https://commons.wikimedia.org/wiki/File:Petya.Random.png
+- *National Cyber Power Index 2020 & National Cyber Power Index 2022 by the Belfer Center from Hardware Kennedy School*
 
 ---
 
-![bg 70%](./images/qubes-trust-level-architecture.png)
+## Resources
 
----
+<style scoped>table { font-size: 60%; width: 100%}</style>
 
-<style scoped> h2{ font-size: 500%; font-weight: }</style>
-
-## Demo time!
-
----
-
-Acknowledgements:
-* Diagram courtesy of the Qubes OS Project website (© 2022 The Qubes OS Project and others)
-
-
-#<p class="fragment highlight-blue">Celia chez les pirates</p>
-
-###<p class="fragment highlight-red">Imprécis de survie à l'ère du numérique</p>
-
----
-
-## L'information
-- <p class="fragment fade-up">L’information est une <u>connaissance</u> à propos de quelque chose comme un objet qu’il est possible de communiquer à l’aide de signes comme des lettres ou des chiffres.</p>
-- <p class="fragment fade-down">C'est à <u>l'information digitalisée</u> que l'on va s'intéresser, soit l'information que l'on peut encoder dans un ordinateur.</p>
-
----
-
-## Infosec : Késako?
-- <p class="fragment fade-up">En informatique, la sécurité de l’information, abrégée «<u>infosec</u> en anglais pour Information Security», c'est la tentative de préserver certaines propriétés d’une information durant son cycle de vie, comme sa confidentialité ou son intégrité, ceci via différentes méthodes comme:
-- Le fait de ne tenter d'éviter de générer de l'information
-</p>
-- <p class="fragment fade-down"> Le mot a retenir, c'est ***tentative***, ou un chemin, un objectif </p>
----
-
-## Opsec
-- 	<p class="fragment fade-up">Alors que la sécurité de l’information penche du côté théorique et technique, la sécurité opérationnelle, dit « <u>opsec</u> » est la capacité à appliquer quotidiennement les meilleures pratiques. </p>
-- <p class="fragment fade-down">Fabriquer ou disposer d’une serrure pour verrouiller l’accès à sa maison, c’est de l’infosec ; ne pas oublier de la fermer, c’est de l’opsec.</p>
-
----
-
-## La sécurité holistique
-- 	<p class="fragment fade-up">La sécurité holistique est l’idée qu’il faut penser la sécurité physique, opérationnelle et technique, comme un tout.</p>
-
----
-## Paradigmes
-- <p class="fragment highlight-current-blue"> Sécurité par l'obscurité </p>
-- <p class="fragment highlight-current-green"> Sécurité par l'ouverture </p>
----
-
-## Sécurité ou information: il faut faire un choix #1
-
-- <p class="fragment highlight-current-blue">L’information qui n’existe pas est la seule qui soit parfaitement sûre</p>
-```javascript
-Information OR security
-```
-- <p class="fragment highlight-current-green">Moins on génère de l’information, mieux on se porte</p>
-
----
-
-## Sécurité ou information: il faut faire un choix #1
-
-- <p class="fragment highlight-current-blue">Quand on doit stocker l’information, il faut la chiffrer, c’est à dire la rendre illisible sans le bon code pour la "déverrouiller"</p>
-- <p class="fragment highlight-current-green">Quand l’information est partagée, il faut utiliser des moyens de chiffrements de bouts à bouts, de façon à autoriser uniquement le récipiendaire à lire l’information en question</p>
-
----
-
-## Sécurité rime avec simplicité, ouverture, isolation
-
-- <p class="fragment highlight-current-blue"> Il faut réduire le nombre d’acteurs auxquels on doit faire aveuglement confiance pour réaliser des actions en ligne. </p>
-- <p class="fragment highlight-current-green"> Il faut s’assurer que les différents éléments que l’on utilise pour réaliser des actions sont isolés, de façon à ce qu’une erreur dans la chaîne n’entraînent pas une faillite collective. Il faut isoler nos identités, nos appareils, nos applications. </p>
-- <p class="fragment highlight-current-red"> Idéalement, chaque élément de la chaîne doit être ouvert, auditable </p>
-
----
-
-## Merci
-
----
-
-## Pot Pourri #1
 | Type       |                                                     Nom et URL                                                      |                                                                                      Description |
 | ---------- | :-----------------------------------------------------------------------------------------------------------------: | -----------------------------------------------------------------------------------------------: |
-| Resources  |                                 <a href="https://privacytools.io">Privacy-tools</a>                                 | “Privacy Tools” est un site web avec une bonne liste d’outils et de services orientés vie privée |
-| Ressources |                                <a href="https://prism-break.org/en/">Prism-Break</a>                                | “Privacy Tools” est un site web avec une bonne liste d’outils et de services orientés vie privée |
----
-
-## Pot Pourri #2
-| Type     |                   Nom et URL                    |                                                                                                  Description |
-| -------- | :---------------------------------------------: | -----------------------------------------------------------------------------------------------------------: |
-| Logiciel |    <a href="https://f-droid.org">F-droid</a>    | F-droid est un magasin d’applications pour téléphones Android. C’est une alternative au Play Store de Google |
-
----
-
-## Pot Pourri #3
-
-| Type |                                 Nom et URL                                  |                                                                                 Description |
-| ---- | :-------------------------------------------------------------------------: | ------------------------------------------------------------------------------------------: |
+| Resources  |                                 https://privacytools.is                                | “Privacy Tools” est un site web avec une bonne liste d’outils et de services orientés vie privée |
+| Resources |                                https://prism-break.org/                              | “Privacy Tools” est un site web avec une bonne liste d’outils et de services orientés vie privée |
+| Logiciel |    https://f-droid.org   | F-droid est un magasin d’applications pour téléphones Android. C’est une alternative au Play Store de Google |
 | ONG  | [The Privacy Lab](https://privacylab.yale.edu/)|      Ce laboratoire sur la vie privée propose notamment un guide sur la vie privée en ligne |
+| ONG  | [Hermes](https://www.hermescenter.org) | Hermes développe plusieurs outils, dont “Globaleaks”, une plateforme pour lanceurs d’alerte |
 | ONG  | [Hermes](https://www.hermescenter.org) | Hermes développe plusieurs outils, dont “Globaleaks”, une plateforme pour lanceurs d’alerte |
 
