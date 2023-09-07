@@ -13,14 +13,11 @@ footer: 'Cyber Security Awareness Training, 2023, CC BY SA, Lukas Greve'
 <!-- _color: white  -->
 <!-- _footer: . -->
 
-<style scoped> h2{ font-size: 400%; font-weight: }</style>
-<style scoped> h3{ font-size: 250%; font-weight: }</style>
+<style scoped> h2{ font-size: 300%; font-weight: }</style>
 
-## Cyber Security
-### Awareness training 
-### 2023
+## Cyber Security Awareness Training 
 
-![bg 100%](./images/recursive.jpg)
+![bg 100%](./images/Cybersecurity-jaydeep-pixabay-hacking-cybercrime.png)
 
 ---
 
@@ -29,14 +26,28 @@ footer: 'Cyber Security Awareness Training, 2023, CC BY SA, Lukas Greve'
 
 ### *Plan*
 
-1. *Introduction*
-2. *Crash course on information security*
-3. *The threat landscape*
-4. *How to improve your security posture*
+1. Introduction
+2. Crash course on information security
+3. The threat landscape
+4. How to improve your digital hygiene
 
 ---
 
+<!-- _color: white  -->
+<style scoped> h1{ font-size: 400%; font-weight: }</style>
+<!-- _footer: . -->
+
 # 1. Introduction
+
+![bg](images/fractal-veggie.jpg)
+
+
+---
+
+<!-- _backgroundImage:  -->
+<!-- _footer: CC BY NC https://xkcd.com/2176/ -->
+
+![bg 60%](./images/how_hacking_works.png)
 
 ---
 
@@ -56,7 +67,13 @@ Just like articles in Wikipedia, this presentation is free and open: you are fre
 
 ---
 
+<!-- _color: white  -->
+<style scoped> h1{ font-size: 400%; font-weight: }</style>
+<!-- _footer: . -->
+
 # 2. Infosec crash course
+
+![bg](images/recursive.jpg)
 
 ---
 
@@ -78,6 +95,13 @@ A robust defense exists when risk mitigation tactics are used both online and of
 
 In this training, we will focus on information security threats.
 -->
+
+---
+
+<!-- _backgroundImage:  -->
+<!-- _footer: CC BY NC https://xkcd.com/2176/ -->
+
+![bg 70%](./images/security.png)
 
 ---
 
@@ -149,12 +173,16 @@ Other examples: black hat hackers
 
 - Now [available online](https://shop.hak5.org/products/omg-cable) for less than 200$ (in 2023)
 
-
 ---
 
 <!-- _header: 3. The threat landscape -->
 
-## Threats categorized
+## Threats categorized and their likelyness
+
+
+- Advanced Persistent threats
+- Cyber crimes
+- Errors or mistakes with security implications, at an individual or organizational level
 
 ---
 
@@ -274,4 +302,3 @@ Use only one Internet Browser
 | ONG  | [The Privacy Lab](https://privacylab.yale.edu/)|      Ce laboratoire sur la vie privée propose notamment un guide sur la vie privée en ligne |
 | ONG  | [Hermes](https://www.hermescenter.org) | Hermes développe plusieurs outils, dont “Globaleaks”, une plateforme pour lanceurs d’alerte |
 | ONG  | [Hermes](https://www.hermescenter.org) | Hermes développe plusieurs outils, dont “Globaleaks”, une plateforme pour lanceurs d’alerte |
-
