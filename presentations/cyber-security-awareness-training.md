@@ -28,10 +28,11 @@ footer: 'Cyber Security Awareness Training, 2023, CC BY SA, Lukas Greve'
 
 ### *Plan*
 
-1. Introduction
-2. Crash course on information security
-3. The threat landscape
-4. Improve your digital hygiene
+
+1) Introduction
+2) Crash course on information security
+3) The threat landscape
+4) Improve your digital hygiene
 
 ---
 
@@ -55,11 +56,14 @@ footer: 'Cyber Security Awareness Training, 2023, CC BY SA, Lukas Greve'
 
 <!-- _header: 1. Introduction -->
 
+<style scoped> { font-size: 270%; font-weight: }</style>
+
+
 ## Questions driving this presentation
 
-- *What is information security?*
-- *What should I be aware of when it comes to cyber-security threats?* 
-- *How can I improve my personal digital hygiene and mitigate cyber-security threats?*
+* *What is information security?*
+* *What should I be aware of when it comes to cyber-security threats?* 
+* *How can I improve my personal digital hygiene and mitigate cyber-security threats?*
 
 <!--
 Who I am?: I am Lukas Greve, from Geneva. During the day, I work for an IT company. During the night, I sleep.
@@ -83,11 +87,11 @@ Don't take what is included in this presentation as face value. Exercice your cr
 <!-- _header: 2. Infosec crash course -->
 
 ## Terminology
-- **Information security**: the study of how to maintain the confidentiality,  integrity and availability of digital information 
-  - Information security is often abreviated as *infosec*
-- [**Holistic security**](https://holistic-security.tacticaltech.org/): blending physical, psycho-social and information security together
-  - Concept introduced by the German-based NGO [Tactical Tech](https://tacticaltech.org/) 
-- **Encryption**: a process to make a discrete piece of information indecipherable
+* **Information security**: the study of how to maintain the confidentiality,  integrity and availability of digital information 
+  * Information security is often abreviated as *infosec*
+* [**Holistic security**](https://holistic-security.tacticaltech.org/): blending physical, psycho-social and information security together
+  * Concept introduced by the German-based NGO [Tactical Tech](https://tacticaltech.org/) 
+* **Encryption**: a process to make a discrete piece of information indecipherable
 
 <!--
 In this training, the cyber and information suffixes are used interchangeability (e.g information security and cyber security). Both suffixes refers to what is happening online.
@@ -114,11 +118,11 @@ In this training, we will focus on information security threats.
 
 ## Observations
 
-- Information OR security 
-  - Information security is a process not an end state 
-  - There is always a non-zero risk
-- Information that doesn't exist as bits of data does not need to be secured
-  - See also [*Data Is a Toxic Asset*](https://www.schneier.com/blog/archives/2016/03/data_is_a_toxic.html)
+* Information OR security 
+  * Information security is a process not an end state 
+  * There is always a non-zero risk
+* Information that doesn't exist as bits of data does not need to be secured
+  * See also [*Data Is a Toxic Asset*](https://www.schneier.com/blog/archives/2016/03/data_is_a_toxic.html)
 
 
 ---
@@ -315,16 +319,16 @@ See the ANT Catalog https://en.wikipedia.org/wiki/ANT_catalog
 
 ## Surf safely online
 
-- **Separate your professional life from your personal one**
-  - Don't log on to personal accounts on your company laptop 
-  - If you do need to do so, use [the private browser mode](https://en.wikipedia.org/wiki/Private_browsing)
-- **Your browser is one of the main vectors for attacks: protect it**
-  - Targeted ads may be used for nefarious purposes
-    - Use an ad blocker (e.g. *[uBlock Origin](https://ublockorigin.com/)*) if allowed by your company policy
-  - If you have a company-provided password manager, don't let your browser store your passwords
-  - Only browse on known and previously vetted websites
-- **Restrict access to your online accounts**
-  - Use [second-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) (2FA) whenever available
+* **Separate your professional life from your personal one**
+  * Don't log on to personal accounts on your company laptop 
+  * If you do need to do so, use [the private browser mode](https://en.wikipedia.org/wiki/Private_browsing)
+* **Your browser is one of the main vectors for attacks: protect it**
+  * Targeted ads may be used for nefarious purposes
+    * Use an ad blocker (e.g. *[uBlock Origin](https://ublockorigin.com/)*) if allowed by your company policy
+  * If you have a company-provided password manager, don't let your browser store your passwords
+  * Only browse on known and previously vetted websites
+* **Restrict access to your online accounts**
+  * Use [second-factor authentication](https://en.wikipedia.org/wiki/Multi-factor_authentication) (2FA) whenever available
 
 <!--
 
@@ -348,11 +352,11 @@ See the ANT Catalog https://en.wikipedia.org/wiki/ANT_catalog
 
 #### *Protect data in transit*
 
-- Avoid sharing very sensitive information online. If you need to do so, **use E2EE**
-  - Emails are rarely end-to-end encrypted (E2EE)
-  - Most real-time messaging applications do not use E2EE
-  - Mobile applications such as WhatsApp or Signal use E2EE
-- Use HTTPS and your corporate VPN
+* Avoid sharing very sensitive information online. If you need to do so, **use E2EE**
+  * Emails are rarely end-to-end encrypted (E2EE)
+  * Most real-time messaging applications do not use E2EE
+  * Mobile applications such as WhatsApp or Signal use E2EE
+* Use HTTPS and your corporate VPN
 
 <!--
 
@@ -370,13 +374,13 @@ See the ANT Catalog https://en.wikipedia.org/wiki/ANT_catalog
 
 #### *Protect data at rest*
 
-- Any device that is storing personal or corporate data ought to be encrypted
-  - Is the device that you are using encrypted?
-    - For Windows, browse [here](https://support.microsoft.com/en-us/windows/device-encryption-in-windows-ad5dcf4b-dbe0-2331-228f-7925c2a3012d)
-      - [Turn on](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838#ID0EBD=Windows_11) device encryption on Windows
-    - For macOS, browse [here](https://support.apple.com/guide/mac-help/protect-your-mac-information-with-encryption-mh40593/mac)
-    - iOS enables encryption by default. More information [here](https://support.apple.com/guide/security/encryption-and-data-protection-overview-sece3bee0835/1/web/1)
-    - Android supports [file-based encryption](https://source.android.com/docs/security/features/encryption/file-based)
+* Any device that is storing personal or corporate data ought to be encrypted
+  * Is the device that you are using encrypted?
+    * For Windows, browse [here](https://support.microsoft.com/en-us/windows/device-encryption-in-windows-ad5dcf4b-dbe0-2331-228f-7925c2a3012d)
+      * [Turn on](https://support.microsoft.com/en-us/windows/turn-on-device-encryption-0c453637-bc88-5f74-5105-741561aae838#ID0EBD=Windows_11) device encryption on Windows
+    * For macOS, browse [here](https://support.apple.com/guide/mac-help/protect-your-mac-information-with-encryption-mh40593/mac)
+    * iOS enables encryption by default. More information [here](https://support.apple.com/guide/security/encryption-and-data-protection-overview-sece3bee0835/1/web/1)
+    * Android supports [file-based encryption](https://source.android.com/docs/security/features/encryption/file-based)
 
 ---
 
@@ -444,4 +448,6 @@ See the ANT Catalog https://en.wikipedia.org/wiki/ANT_catalog
 
 ## Contact
 
-Lukas Greve: please@refre.ch
+- Lukas Greve: please@refre.ch
+
+- Source: https://github.com/luzeal/publications/blob/master/presentations/cyber-security-awareness-training.md
